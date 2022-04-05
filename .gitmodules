@@ -1,7 +1,3 @@
-[submodule "TALON_ACU"]
-	path = TALON_ACU
-	url = https://github.com/InMechaSol/TALON_ACU.git
-	branch = main
 [submodule "RECON_ACU"]
 	path = RECON_ACU
 	url = https://github.com/InMechaSol/RECON_ACU.git
